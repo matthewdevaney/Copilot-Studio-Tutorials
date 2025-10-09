@@ -6,5 +6,5 @@ Copilot Studio Create An Excel File Using Prompts - MAGIC!! <br>
 Secret Way To Create Excel File Using Copilot Studio Prompts <br>
 📕 Read the Blog: https://www.matthewdevaney.com/secret-way-to-create-excel-file-using-copilot-studio-prompts/
 
-Files
+### Supporting Files
 - travelreceipts_merged.pdf: read this pdf file of receipts to create the excel file
