@@ -30,7 +30,7 @@ INSERT INTO realestate_agents (agent_id, first_name, last_name, phone, email) VA
 (6, 'Olivia', 'Wilson', '555-678-9012', 'olivia.wilson@example.com');
 
 INSERT INTO realestate_listings
-(listing_id, agent_id, address, city, state, price, bedrooms, bathrooms, square_feet, listed_date, description) VALUES
+(listing_id, agent_id, address, city, state, price, bed, bath, square_feet, listed_date, description) VALUES
 (1,  3, '12 Maple Court',       'New York',    'NY',  599000.00, 4, 3.0, 2300, '2025-01-10',
  'Stunningly renovated four-bedroom townhouse in a vibrant, tree-lined neighborhood. The open-concept main floor features wide-plank hardwood, a chef''s kitchen with quartz countertops and stainless appliances, and a bright dining area that opens to a private courtyard perfect for entertaining. The primary suite includes an ensuite bath with dual vanities and custom closets; excellent transit access and nearby parks.'),
 (2,  1, '34 Elm Street',        'Buffalo',     'NY',  279900.00, 3, 1.5, 1250, '2025-01-12',
