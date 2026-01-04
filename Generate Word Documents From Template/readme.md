@@ -1,4 +1,3 @@
-
 ## Generate Word Documents From Template
 
 Copilot Studio: Generate Word Document Grounded In Knowledge <br>
