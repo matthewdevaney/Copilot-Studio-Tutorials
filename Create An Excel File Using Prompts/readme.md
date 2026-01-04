@@ -8,3 +8,4 @@ Secret Way To Create Excel File Using Copilot Studio Prompts <br>
 
 ### Supporting Files
 * travelreceipts_merged.pdf: read this pdf file of receipts to create the excel file
+* Travel Meals Hospitality Expenses Policy - Final - October 2018.pdf: policy document for Travel FAQs
