@@ -1,10 +1,10 @@
 ## Connect To Dataverse Knowledge
 
 Optimize Your Dataverse Knowledge In Copilot Studio<br>
-🎥 Watch the Video: COMING SOON Jan 19, 2026
+🎥 Watch the Video: https://www.youtube.com/watch?v=qM4YtQfd8R0
 
 Connect To Dataverse Knowledge In Copilot Studio <br>
-📕 Read the Blog: COMING SOON Jan 26, 2026
+📕 Read the Blog: https://www.matthewdevaney.com/connect-to-dataverse-knowledge-in-copilot-studio/
 
 Unstructured Data Search In Dataverse Knowledg <br>
 📕 Read the Blog: COMING SOON Feb 2, 2026
