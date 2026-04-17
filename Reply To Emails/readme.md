@@ -1,8 +1,8 @@
-(Video Name)
-🎥 Watch the Video: ----
+Video Name Coming Soon<br>
+🎥 Watch the Video: video-url-here
 
-(Blog Name)
-📕 Read the Blog: ----
+Blog Name Coming Soon<br>
+📕 Read the Blog: blog-url-here
 
 Supporting Files
 * Sunrise Prices And Quantities By Model.xlsx: upload this to SharePoint and read using the List Rows agent tool
