@@ -7,7 +7,7 @@ Copilot Studio: Publish To Wwebsite With Single Sign-On<br>
 📕 Read the Blog: https://www.matthewdevaney.com/copilot-studio-publish-to-website-with-single-sign-on/
 
 Web Client:
-* [Chat Window Code](https://github.com/microsoft/Agents/tree/main/samples/nodejs/copilotstudio-webclient)
+* [Download Chat Client Here](https://github.com/microsoft/Agents/tree/main/samples/nodejs/copilotstudio-webclient)
 
 Supporting Files:
 * Construction Industry Minimum Wage Regulation M.R. 119-2006.pdf: knowledge file
