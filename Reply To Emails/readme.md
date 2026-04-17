@@ -1,8 +1,8 @@
 <Video Name>
-🎥 Watch the Video: ---
+🎥 Watch the Video: ----
 
 <Blog Name>
-📕 Read the Blog: ---
+📕 Read the Blog: ----
 
 Supporting Files
 Sunrise Prices And Quantities By Model.xlsx: upload this to SharePoint and read using the List Rows agent tool
