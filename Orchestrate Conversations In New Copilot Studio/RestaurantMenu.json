@@ -1,0 +1,785 @@
+{
+  "menu": [
+    {
+      "item": "Egg McMuffin",
+      "category": "Breakfast",
+      "price": 3.99
+    },
+    {
+      "item": "Sausage McMuffin",
+      "category": "Breakfast",
+      "price": 2.79
+    },
+    {
+      "item": "Sausage McMuffin with Egg",
+      "category": "Breakfast",
+      "price": 3.79
+    },
+    {
+      "item": "Bacon Egg & Cheese Biscuit",
+      "category": "Breakfast",
+      "price": 4.29
+    },
+    {
+      "item": "Sausage Biscuit",
+      "category": "Breakfast",
+      "price": 2.49
+    },
+    {
+      "item": "Sausage Biscuit with Egg",
+      "category": "Breakfast",
+      "price": 3.59
+    },
+    {
+      "item": "Bacon Egg & Cheese McGriddles",
+      "category": "Breakfast",
+      "price": 4.49
+    },
+    {
+      "item": "Sausage McGriddles",
+      "category": "Breakfast",
+      "price": 3.29
+    },
+    {
+      "item": "Sausage Egg & Cheese McGriddles",
+      "category": "Breakfast",
+      "price": 4.59
+    },
+    {
+      "item": "Bacon Egg & Cheese Bagel",
+      "category": "Breakfast",
+      "price": 4.99
+    },
+    {
+      "item": "Sausage Egg & Cheese Bagel",
+      "category": "Breakfast",
+      "price": 4.99
+    },
+    {
+      "item": "Steak Egg & Cheese Bagel",
+      "category": "Breakfast",
+      "price": 5.49
+    },
+    {
+      "item": "Bagel (Plain)",
+      "category": "Breakfast",
+      "price": 1.99
+    },
+    {
+      "item": "Egg and Cheese Bagel",
+      "category": "Breakfast",
+      "price": 3.79
+    },
+    {
+      "item": "Big Breakfast",
+      "category": "Breakfast",
+      "price": 6.29
+    },
+    {
+      "item": "Big Breakfast with Hotcakes",
+      "category": "Breakfast",
+      "price": 7.49
+    },
+    {
+      "item": "Hotcakes",
+      "category": "Breakfast",
+      "price": 4.29
+    },
+    {
+      "item": "Hotcakes and Sausage",
+      "category": "Breakfast",
+      "price": 5.49
+    },
+    {
+      "item": "Sausage Burrito",
+      "category": "Breakfast",
+      "price": 2.99
+    },
+    {
+      "item": "Hash Browns",
+      "category": "Breakfast",
+      "price": 2.19
+    },
+    {
+      "item": "Fruit & Maple Oatmeal",
+      "category": "Breakfast",
+      "price": 3.29
+    },
+    {
+      "item": "Egg McMuffin Meal",
+      "category": "Breakfast",
+      "price": 7.49
+    },
+    {
+      "item": "Sausage McMuffin with Egg Meal",
+      "category": "Breakfast",
+      "price": 6.99
+    },
+    {
+      "item": "Sausage Biscuit with Egg Meal",
+      "category": "Breakfast",
+      "price": 6.79
+    },
+    {
+      "item": "Bacon Egg & Cheese Biscuit Meal",
+      "category": "Breakfast",
+      "price": 7.49
+    },
+    {
+      "item": "Bacon Egg & Cheese McGriddles Meal",
+      "category": "Breakfast",
+      "price": 7.99
+    },
+    {
+      "item": "Sausage Egg & Cheese McGriddles Meal",
+      "category": "Breakfast",
+      "price": 7.99
+    },
+    {
+      "item": "Sausage McGriddles Meal",
+      "category": "Breakfast",
+      "price": 6.49
+    },
+    {
+      "item": "Sausage Burrito Meal",
+      "category": "Breakfast",
+      "price": 6.29
+    },
+    {
+      "item": "Big Mac",
+      "category": "Burgers",
+      "price": 5.99
+    },
+    {
+      "item": "Quarter Pounder with Cheese",
+      "category": "Burgers",
+      "price": 5.79
+    },
+    {
+      "item": "Double Quarter Pounder with Cheese",
+      "category": "Burgers",
+      "price": 7.29
+    },
+    {
+      "item": "Quarter Pounder with Cheese Deluxe",
+      "category": "Burgers",
+      "price": 6.29
+    },
+    {
+      "item": "Bacon Quarter Pounder with Cheese",
+      "category": "Burgers",
+      "price": 7.59
+    },
+    {
+      "item": "McDouble",
+      "category": "Burgers",
+      "price": 3.19
+    },
+    {
+      "item": "Daily Double",
+      "category": "Burgers",
+      "price": 3.49
+    },
+    {
+      "item": "Cheeseburger",
+      "category": "Burgers",
+      "price": 2.59
+    },
+    {
+      "item": "Double Cheeseburger",
+      "category": "Burgers",
+      "price": 3.79
+    },
+    {
+      "item": "Hamburger",
+      "category": "Burgers",
+      "price": 2.19
+    },
+    {
+      "item": "McCrispy",
+      "category": "Chicken & Fish Sandwiches",
+      "price": 5.99
+    },
+    {
+      "item": "Deluxe McCrispy",
+      "category": "Chicken & Fish Sandwiches",
+      "price": 6.49
+    },
+    {
+      "item": "Spicy McCrispy",
+      "category": "Chicken & Fish Sandwiches",
+      "price": 5.99
+    },
+    {
+      "item": "Spicy Deluxe McCrispy",
+      "category": "Chicken & Fish Sandwiches",
+      "price": 6.49
+    },
+    {
+      "item": "Filet-O-Fish",
+      "category": "Chicken & Fish Sandwiches",
+      "price": 5.79
+    },
+    {
+      "item": "McChicken",
+      "category": "Chicken & Fish Sandwiches",
+      "price": 3.19
+    },
+    {
+      "item": "Chicken McNuggets",
+      "category": "McNuggets & McCrispy Strips",
+      "variant_type": "count",
+      "variants": [
+        { "variant_name": "4 piece Chicken McNuggets", "size": "4 piece", "count": 4, "price": 3.19 },
+        { "variant_name": "6 piece Chicken McNuggets", "size": "6 piece", "count": 6, "price": 4.39 },
+        { "variant_name": "10 piece Chicken McNuggets", "size": "10 piece", "count": 10, "price": 5.79 },
+        { "variant_name": "20 piece Chicken McNuggets", "size": "20 piece", "count": 20, "price": 8.79 },
+        { "variant_name": "40 piece Chicken McNuggets", "size": "40 piece", "count": 40, "price": 15.99 }
+      ]
+    },
+    {
+      "item": "McCrispy Strips",
+      "category": "McNuggets & McCrispy Strips",
+      "variant_type": "count",
+      "variants": [
+        { "variant_name": "3 piece McCrispy Strips", "size": "3 piece", "count": 3, "price": 4.99 },
+        { "variant_name": "5 piece McCrispy Strips", "size": "5 piece", "count": 5, "price": 7.29 }
+      ]
+    },
+    {
+      "item": "Ranch Snack Wrap",
+      "category": "Snack Wrap",
+      "price": 3.49
+    },
+    {
+      "item": "Spicy Snack Wrap",
+      "category": "Snack Wrap",
+      "price": 3.49
+    },
+    {
+      "item": "World Famous Fries",
+      "category": "Fries & Sides",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small World Famous Fries", "size": "Small", "price": 2.39 },
+        { "variant_name": "Medium World Famous Fries", "size": "Medium", "price": 3.99 },
+        { "variant_name": "Large World Famous Fries", "size": "Large", "price": 4.79 }
+      ]
+    },
+    {
+      "item": "Apple Slices",
+      "category": "Fries & Sides",
+      "price": 1.50
+    },
+    {
+      "item": "Side Salad",
+      "category": "Fries & Sides",
+      "price": 3.29
+    },
+    {
+      "item": "Hamburger Happy Meal",
+      "category": "Happy Meal",
+      "price": 5.89
+    },
+    {
+      "item": "4 Piece Chicken McNuggets Happy Meal",
+      "category": "Happy Meal",
+      "price": 6.19
+    },
+    {
+      "item": "6 Piece Chicken McNuggets Happy Meal",
+      "category": "Happy Meal",
+      "price": 7.19
+    },
+    {
+      "item": "Fried Apple Pie",
+      "category": "Sweets & Treats",
+      "price": 2.19
+    },
+    {
+      "item": "Baked Apple Pie",
+      "category": "Sweets & Treats",
+      "price": 2.19
+    },
+    {
+      "item": "OREO McFlurry",
+      "category": "Sweets & Treats",
+      "price": 4.29
+    },
+    {
+      "item": "M&M'S McFlurry",
+      "category": "Sweets & Treats",
+      "price": 4.29
+    },
+    {
+      "item": "Vanilla Cone",
+      "category": "Sweets & Treats",
+      "price": 1.99
+    },
+    {
+      "item": "Chocolate Shake",
+      "category": "Sweets & Treats",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Chocolate Shake", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Chocolate Shake", "size": "Medium", "price": 4.29 },
+        { "variant_name": "Large Chocolate Shake", "size": "Large", "price": 4.79 }
+      ]
+    },
+    {
+      "item": "Vanilla Shake",
+      "category": "Sweets & Treats",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Vanilla Shake", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Vanilla Shake", "size": "Medium", "price": 4.29 },
+        { "variant_name": "Large Vanilla Shake", "size": "Large", "price": 4.79 }
+      ]
+    },
+    {
+      "item": "Strawberry Shake",
+      "category": "Sweets & Treats",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Strawberry Shake", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Strawberry Shake", "size": "Medium", "price": 4.29 },
+        { "variant_name": "Large Strawberry Shake", "size": "Large", "price": 4.79 }
+      ]
+    },
+    {
+      "item": "Hot Fudge Sundae",
+      "category": "Sweets & Treats",
+      "price": 2.29
+    },
+    {
+      "item": "Hot Caramel Sundae",
+      "category": "Sweets & Treats",
+      "price": 2.29
+    },
+    {
+      "item": "Chocolate Chip Cookie",
+      "category": "Sweets & Treats",
+      "price": 1.49
+    },
+    {
+      "item": "Premium Roast Coffee",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Premium Roast Coffee", "size": "Small", "price": 1.69 },
+        { "variant_name": "Medium Premium Roast Coffee", "size": "Medium", "price": 2.29 },
+        { "variant_name": "Large Premium Roast Coffee", "size": "Large", "price": 2.59 }
+      ]
+    },
+    {
+      "item": "Iced Coffee",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Iced Coffee", "size": "Small", "price": 2.29 },
+        { "variant_name": "Medium Iced Coffee", "size": "Medium", "price": 2.79 },
+        { "variant_name": "Large Iced Coffee", "size": "Large", "price": 3.29 }
+      ]
+    },
+    {
+      "item": "Cappuccino",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Cappuccino", "size": "Small", "price": 2.99 },
+        { "variant_name": "Medium Cappuccino", "size": "Medium", "price": 3.49 },
+        { "variant_name": "Large Cappuccino", "size": "Large", "price": 3.99 }
+      ]
+    },
+    {
+      "item": "Latte",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Latte", "size": "Small", "price": 3.19 },
+        { "variant_name": "Medium Latte", "size": "Medium", "price": 3.69 },
+        { "variant_name": "Large Latte", "size": "Large", "price": 4.19 }
+      ]
+    },
+    {
+      "item": "Iced Latte",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Iced Latte", "size": "Small", "price": 3.19 },
+        { "variant_name": "Medium Iced Latte", "size": "Medium", "price": 3.69 },
+        { "variant_name": "Large Iced Latte", "size": "Large", "price": 4.19 }
+      ]
+    },
+    {
+      "item": "Caramel Macchiato",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Caramel Macchiato", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Caramel Macchiato", "size": "Medium", "price": 4.29 },
+        { "variant_name": "Large Caramel Macchiato", "size": "Large", "price": 4.79 }
+      ]
+    },
+    {
+      "item": "Iced Caramel Macchiato",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Iced Caramel Macchiato", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Iced Caramel Macchiato", "size": "Medium", "price": 4.29 },
+        { "variant_name": "Large Iced Caramel Macchiato", "size": "Large", "price": 4.79 }
+      ]
+    },
+    {
+      "item": "Mocha",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Mocha", "size": "Small", "price": 3.49 },
+        { "variant_name": "Medium Mocha", "size": "Medium", "price": 3.99 },
+        { "variant_name": "Large Mocha", "size": "Large", "price": 4.49 }
+      ]
+    },
+    {
+      "item": "Iced Mocha",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Iced Mocha", "size": "Small", "price": 3.49 },
+        { "variant_name": "Medium Iced Mocha", "size": "Medium", "price": 3.99 },
+        { "variant_name": "Large Iced Mocha", "size": "Large", "price": 4.49 }
+      ]
+    },
+    {
+      "item": "French Vanilla Latte",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small French Vanilla Latte", "size": "Small", "price": 3.29 },
+        { "variant_name": "Medium French Vanilla Latte", "size": "Medium", "price": 3.79 },
+        { "variant_name": "Large French Vanilla Latte", "size": "Large", "price": 4.29 }
+      ]
+    },
+    {
+      "item": "McCafe Frappe Caramel",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small McCafe Frappe Caramel", "size": "Small", "price": 3.99 },
+        { "variant_name": "Medium McCafe Frappe Caramel", "size": "Medium", "price": 4.49 },
+        { "variant_name": "Large McCafe Frappe Caramel", "size": "Large", "price": 4.99 }
+      ]
+    },
+    {
+      "item": "McCafe Frappe Mocha",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small McCafe Frappe Mocha", "size": "Small", "price": 3.99 },
+        { "variant_name": "Medium McCafe Frappe Mocha", "size": "Medium", "price": 4.49 },
+        { "variant_name": "Large McCafe Frappe Mocha", "size": "Large", "price": 4.99 }
+      ]
+    },
+    {
+      "item": "McCafe Hot Chocolate",
+      "category": "McCafe Coffee",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small McCafe Hot Chocolate", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium McCafe Hot Chocolate", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large McCafe Hot Chocolate", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "Coca-Cola",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Coca-Cola", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Coca-Cola", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Coca-Cola", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Diet Coke",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Diet Coke", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Diet Coke", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Diet Coke", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Sprite",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Sprite", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Sprite", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Sprite", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Dr Pepper",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Dr Pepper", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Dr Pepper", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Dr Pepper", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Fanta Orange",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Fanta Orange", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Fanta Orange", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Fanta Orange", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Hi-C Orange Lavaburst",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Hi-C Orange Lavaburst", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Hi-C Orange Lavaburst", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Hi-C Orange Lavaburst", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Minute Maid Premium Orange Juice",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Minute Maid Premium Orange Juice", "size": "Small", "price": 2.49 },
+        { "variant_name": "Medium Minute Maid Premium Orange Juice", "size": "Medium", "price": 2.99 },
+        { "variant_name": "Large Minute Maid Premium Orange Juice", "size": "Large", "price": 3.49 }
+      ]
+    },
+    {
+      "item": "Sweet Tea",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Sweet Tea", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Sweet Tea", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Sweet Tea", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Unsweetened Iced Tea",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Unsweetened Iced Tea", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Unsweetened Iced Tea", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Unsweetened Iced Tea", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Hot Tea",
+      "category": "Drinks",
+      "price": 1.99
+    },
+    {
+      "item": "Lemonade",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Lemonade", "size": "Small", "price": 1.19 },
+        { "variant_name": "Medium Lemonade", "size": "Medium", "price": 2.39 },
+        { "variant_name": "Large Lemonade", "size": "Large", "price": 3.19 }
+      ]
+    },
+    {
+      "item": "Frozen Coca-Cola",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Frozen Coca-Cola", "size": "Small", "price": 2.49 },
+        { "variant_name": "Medium Frozen Coca-Cola", "size": "Medium", "price": 2.99 },
+        { "variant_name": "Large Frozen Coca-Cola", "size": "Large", "price": 3.49 }
+      ]
+    },
+    {
+      "item": "Frozen Fanta Blue Raspberry",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Frozen Fanta Blue Raspberry", "size": "Small", "price": 2.49 },
+        { "variant_name": "Medium Frozen Fanta Blue Raspberry", "size": "Medium", "price": 2.99 },
+        { "variant_name": "Large Frozen Fanta Blue Raspberry", "size": "Large", "price": 3.49 }
+      ]
+    },
+    {
+      "item": "Strawberry Banana Smoothie",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Strawberry Banana Smoothie", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Strawberry Banana Smoothie", "size": "Medium", "price": 4.49 },
+        { "variant_name": "Large Strawberry Banana Smoothie", "size": "Large", "price": 5.19 }
+      ]
+    },
+    {
+      "item": "Mango Pineapple Smoothie",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Mango Pineapple Smoothie", "size": "Small", "price": 3.79 },
+        { "variant_name": "Medium Mango Pineapple Smoothie", "size": "Medium", "price": 4.49 },
+        { "variant_name": "Large Mango Pineapple Smoothie", "size": "Large", "price": 5.19 }
+      ]
+    },
+    {
+      "item": "Strawberry Watermelon Refresher",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Strawberry Watermelon Refresher", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium Strawberry Watermelon Refresher", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large Strawberry Watermelon Refresher", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "Mango Pineapple Refresher",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Mango Pineapple Refresher", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium Mango Pineapple Refresher", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large Mango Pineapple Refresher", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "Blackberry Passion Fruit Refresher",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Blackberry Passion Fruit Refresher", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium Blackberry Passion Fruit Refresher", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large Blackberry Passion Fruit Refresher", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "Sprite Berry Blast",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Sprite Berry Blast", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium Sprite Berry Blast", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large Sprite Berry Blast", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "Orange Dream",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Orange Dream", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium Orange Dream", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large Orange Dream", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "Dirty Dr Pepper",
+      "category": "Drinks",
+      "variant_type": "size",
+      "variants": [
+        { "variant_name": "Small Dirty Dr Pepper", "size": "Small", "price": 2.79 },
+        { "variant_name": "Medium Dirty Dr Pepper", "size": "Medium", "price": 3.29 },
+        { "variant_name": "Large Dirty Dr Pepper", "size": "Large", "price": 3.79 }
+      ]
+    },
+    {
+      "item": "1% Low Fat Milk Jug",
+      "category": "Drinks",
+      "price": 1.59
+    },
+    {
+      "item": "Low Fat Chocolate Milk Jug",
+      "category": "Drinks",
+      "price": 1.59
+    },
+    {
+      "item": "Honest Kids Juice",
+      "category": "Drinks",
+      "price": 1.59
+    },
+    {
+      "item": "DASANI Water",
+      "category": "Drinks",
+      "price": 1.79
+    },
+    {
+      "item": "Big Mac Sauce",
+      "category": "Sauces & Condiments",
+      "price": 0.40
+    },
+    {
+      "item": "Creamy Chili McCrispy Strip Dip",
+      "category": "Sauces & Condiments",
+      "price": 0.40
+    },
+    {
+      "item": "Tangy Barbeque Sauce",
+      "category": "Sauces & Condiments",
+      "price": 0.35
+    },
+    {
+      "item": "Spicy Buffalo Sauce",
+      "category": "Sauces & Condiments",
+      "price": 0.35
+    },
+    {
+      "item": "Creamy Ranch Sauce",
+      "category": "Sauces & Condiments",
+      "price": 0.35
+    },
+    {
+      "item": "Honey Mustard Sauce",
+      "category": "Sauces & Condiments",
+      "price": 0.35
+    },
+    {
+      "item": "Sweet 'N Sour Sauce",
+      "category": "Sauces & Condiments",
+      "price": 0.35
+    },
+    {
+      "item": "Ketchup Packet",
+      "category": "Sauces & Condiments",
+      "price": 0.00
+    },
+    {
+      "item": "Mayonnaise Packet",
+      "category": "Sauces & Condiments",
+      "price": 0.00
+    },
+    {
+      "item": "Mustard Packet",
+      "category": "Sauces & Condiments",
+      "price": 0.00
+    },
+    {
+      "item": "Honey",
+      "category": "Sauces & Condiments",
+      "price": 0.25
+    },
+    {
+      "item": "Big Arch Burger",
+      "category": "Limited Time / Seasonal",
+      "price": 8.71
+    },
+    {
+      "item": "FIFA World Cup Meal",
+      "category": "Limited Time / Seasonal",
+      "price": 10.99
+    }
+  ]
+}
