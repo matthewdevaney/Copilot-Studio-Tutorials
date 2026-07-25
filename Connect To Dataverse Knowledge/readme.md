@@ -6,8 +6,8 @@ Optimize Your Dataverse Knowledge In Copilot Studio<br>
 Connect To Dataverse Knowledge In Copilot Studio <br>
 📕 Read the Blog: https://www.matthewdevaney.com/connect-to-dataverse-knowledge-in-copilot-studio/
 
-Unstructured Data Search In Dataverse Knowledg <br>
-📕 Read the Blog: COMING SOON Feb 2, 2026
+Copilot Studio Search Multiline Text & File Dataverse Fields <br>
+📕 Read the Blog: https://www.matthewdevaney.com/copilot-studio-search-multiline-text-file-dataverse-fields/
 
 ### Supporting Files
 * Real Estate Listings.xlsx: create a new Dataverse table using this file in the data workspace.
