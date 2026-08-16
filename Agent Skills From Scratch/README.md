@@ -2,10 +2,12 @@
 ## Agent Skills From Scratch
 
 Youtube Video <br>
-🎥 Watch the Video: --COMING SOON--
+🎥 Watch the Video:
+https://www.matthewdevaney.com/how-to-create-agent-skills-in-copilot-studio/
 
 Written Tutorial <br>
-📕 Read the Blog: --COMING SOON--
+📕 Read the Blog:
+https://www.youtube.com/watch?v=BvDGMw_7sbk
 
 ### Supporting Files
 * create-certificate-of-origin: unpackaged skill including SKILL.md, assets and scripts
